@@ -1,5 +1,5 @@
 # 42Metaverse
-[日本語](profile/README.md)|[English](profile/README-en.md)
+[日本語](README.md) | [English](README-en.md)
 
 ## 私たちについて
 42Metaverseは、42Tokyo内の**Association**であり、メタバース空間における交流やコラボレーションの可能性を探求しています。私たちは、メタバース（VRに限らず）でのみ実現できる活動やイベント、新しい取り組みを実験し、発見していきます。

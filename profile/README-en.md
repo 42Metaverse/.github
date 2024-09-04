@@ -1,5 +1,5 @@
 # 42Metaverse
-[日本語](profile/README.md)|[English](profile/README-en.md)
+[日本語](README.md) | [English](README-en.md)
 
 ## About Us
 42Metaverse is an **Association** within 42Tokyo, focused on exploring the limitless potential of collaboration and interaction in the metaverse. We conduct experiments with activities, events, and groundbreaking initiatives that can only be achieved in virtual environments, extending beyond just VR.
